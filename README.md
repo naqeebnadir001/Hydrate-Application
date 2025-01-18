@@ -1,1 +1,3 @@
 # Hydrate-Application
+
+I've crafted a cross-platform desktop application tailored for coders and programmers, built with HTML, CSS, JavaScript, and Electron. This app enhances user health by enabling login via Google account, allowing users to set start and end times along with custom intervals. After each interval, it prompts users to take a hydration break. During the break, the screen locks for a minute, encouraging a focus on hydration without distractions. Users can then log their water intake and seamlessly return to work. This tool is designed to promote hydration and regular breaks, essential for maintaining peak cognitive and physical performance during long coding sessions.
